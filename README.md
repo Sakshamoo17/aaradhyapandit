@@ -1,2 +1,2 @@
-# aaradhyapandit
-Personal Website
+# Personal
+
